@@ -1,0 +1,2 @@
+com/tengwang/game/desktop/DesktopLauncher.java
+ com.tengwang.game.desktop.DesktopLauncher
